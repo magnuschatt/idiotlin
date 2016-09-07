@@ -1,4 +1,4 @@
-# Kotlin - What is it good for?
+# Kotlin - What about it?
 
 ```kotlin
 fun main(args: Array<String>) {
